@@ -1,0 +1,8 @@
+C:\Users\HP\Desktop\Indeed\Phase-2(C#)\Day-14\day-14-assign-17\day-14-assign-17\bin\Debug\day-14-assign-17.exe.config
+C:\Users\HP\Desktop\Indeed\Phase-2(C#)\Day-14\day-14-assign-17\day-14-assign-17\bin\Debug\day-14-assign-17.exe
+C:\Users\HP\Desktop\Indeed\Phase-2(C#)\Day-14\day-14-assign-17\day-14-assign-17\bin\Debug\day-14-assign-17.pdb
+C:\Users\HP\Desktop\Indeed\Phase-2(C#)\Day-14\day-14-assign-17\day-14-assign-17\obj\Debug\day-14-assign-17.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\Indeed\Phase-2(C#)\Day-14\day-14-assign-17\day-14-assign-17\obj\Debug\day-14-assign-17.csproj.SuggestedBindingRedirects.cache
+C:\Users\HP\Desktop\Indeed\Phase-2(C#)\Day-14\day-14-assign-17\day-14-assign-17\obj\Debug\day-14-assign-17.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\Indeed\Phase-2(C#)\Day-14\day-14-assign-17\day-14-assign-17\obj\Debug\day-14-assign-17.exe
+C:\Users\HP\Desktop\Indeed\Phase-2(C#)\Day-14\day-14-assign-17\day-14-assign-17\obj\Debug\day-14-assign-17.pdb
